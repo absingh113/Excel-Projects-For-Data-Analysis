@@ -19,6 +19,7 @@ Sample Questions Solution
 •	Highest selling category? etc.
 
 
+
 Sample Insights
 
 •	Women are more likely to buy compared to men (~65%)
@@ -28,6 +29,7 @@ Sample Insights
 •	Adult age group (30-49 yrs.) is max contributing (~50%)
 
 •	Amazon, Flipkart and Myntra channels are max contributing (~80%)
+
 
 
 Conclusion to improve store sales:
